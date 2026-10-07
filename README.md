@@ -7,3 +7,6 @@ I will learn GitHub for 30 days.
 
 I am learning GitHub step by step.
 This is my first branch.
+## Branch Practice
+
+I am learning how branches work.
