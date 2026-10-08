@@ -15,3 +15,6 @@ I am learning how branches work.
 - Listening to music
 - Watching movies
 - Learning new things
+## My Hobbies
+- Learning GitHub
+- Exploring technology
