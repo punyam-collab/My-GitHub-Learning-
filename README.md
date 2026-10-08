@@ -10,3 +10,8 @@ This is my first branch.
 ## Branch Practice
 
 I am learning how branches work.
+## My Hobbies
+
+- Listening to music
+- Watching movies
+- Learning new things
